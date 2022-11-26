@@ -24,7 +24,7 @@
 <div id="contact">
         <div align="center">
         <h3>Contact</h3>
-        <a href="mailto:dnlalejandro1@gmail.com" target="_blank">
+        <a href="mailto:dnlalejandro1@gmail.com">{:target="_blank" rel="noopener"}
             <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" title="dnlalejandro1@gmail.com">
         </a>
         <a href="https://www.linkedin.com/in/daniel-alejandro-diaz-mideros-87096b200/" target="_blank">
@@ -47,5 +47,4 @@
     
   </div>
 </div>
-markdown: kramdown
   
