@@ -47,5 +47,5 @@
     
   </div>
 </div>
-  
+markdown: kramdown
   
