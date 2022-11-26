@@ -30,7 +30,7 @@
         <a href="https://www.linkedin.com/in/daniel-alejandro-diaz-mideros-87096b200/" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40">
         </a>
-        <a href="tel:+573202595869" target="_blank">
+        <a href="tel:+57+3202595869" target="_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="40" height="40" title="+573202595869">
         </a>
     </div>
