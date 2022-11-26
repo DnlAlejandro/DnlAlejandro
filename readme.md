@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150px">
     <h1> Hi I'm Daniel Diaz</h1>
     <h4>A passionate frontend developer from Bogota, Colombia</h3>
 </div>
