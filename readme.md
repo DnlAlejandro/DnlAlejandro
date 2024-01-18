@@ -40,8 +40,6 @@
   <div align="center">
   <h3>Github Stats</h3>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DnlAlejandro&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DnlAlejandro&show_icons=true&theme=tokyonight)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DnlAlejandro&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
